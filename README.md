@@ -2,9 +2,9 @@
 
 ## Includes
 
-[Neogit] (https://github.com/NeogitOrg/neogit)
-[nvim-orgmode] (https://github.com/nvim-orgmode/orgmode)
-[vim-table-mode] (https://github.com/dhruvasagar/vim-table-mode)
+[Neogit](https://github.com/NeogitOrg/neogit)
+[nvim-orgmode](https://github.com/nvim-orgmode/orgmode)
+[vim-table-mode](https://github.com/dhruvasagar/vim-table-mode)
 
 **NOTE:** This is for AstroNvim v4+
 
