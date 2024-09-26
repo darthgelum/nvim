@@ -1,4 +1,8 @@
-# AstroNvim Template
+# Yoshi driven personal config
+
+- [Neogit] (https://github.com/NeogitOrg/neogit)
+- [nvim-orgmode] (https://github.com/nvim-orgmode/orgmode)
+- [vim-table-mode] (https://github.com/dhruvasagar/vim-table-mode)
 
 **NOTE:** This is for AstroNvim v4+
 
@@ -24,7 +28,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://github.com/darthgelum/nvim ~/.config/nvim
 ```
 
 #### Start Neovim
