@@ -44,11 +44,11 @@ return {
         map("n", "gr", vim.lsp.buf.references)
         map("n", "gds", vim.lsp.buf.document_symbol)
         map("n", "gws", vim.lsp.buf.workspace_symbol)
-        map("n", "<leader>cl", vim.lsp.codelens.run)
-        map("n", "<leader>sh", vim.lsp.buf.signature_help)
-        map("n", "<leader>rn", vim.lsp.buf.rename)
-        map("n", "<leader>f", vim.lsp.buf.format)
-        map("n", "<leader>ca", vim.lsp.buf.code_action)
+        map("n", "<leader>lcl", vim.lsp.codelens.run)
+        map("n", "<leader>lsh", vim.lsp.buf.signature_help)
+        map("n", "<leader>lr", vim.lsp.buf.rename)
+        map("n", "<leader>lf", vim.lsp.buf.format)
+        map("n", "<leader>lca", vim.lsp.buf.code_action)
     end
 
     return metals_config
