@@ -8,5 +8,6 @@ return {
   -- { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.project.projectmgr-nvim" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim", lazy = false },
+  { import = "astrocommunity.file-explorer.telescope-file-browser-nvim", lazy = false },
   -- import/override with your plugins folder
 }
